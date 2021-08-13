@@ -3,6 +3,13 @@ I will use this repo to solve leetcode questions by topic
 
 lang: python
 
+## To do's
+- Review all the sorting algorithms, what they do and their consequesnt space/time complexity
+- keep going down list of type of problems
+
+
+## To come back to
+- more array problems
 
 ## Lessons
 ### General
@@ -14,6 +21,10 @@ lang: python
 - set.add() does not actually return the resulting set. 
 - use constructors to make deep copies of objects. Python copies everything by reference/pointer
 - have you considered actually reading the problem you are soling before solving it. smh.
+- list.sort() will sort the list
+- `diff = float('inf')` gives you infinity in float
 
 ### Array
-- 
+- sort+2 pointer combos allow you to move closer to a sum in linear time
+
+
