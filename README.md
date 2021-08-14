@@ -5,6 +5,7 @@ lang: python
 
 ## To do's
 - Review all the sorting algorithms, what they do and their consequesnt space/time complexity
+- practise converting between recurrsive and iterative solutions
 - keep going down list of type of problems
 
 
@@ -23,6 +24,7 @@ lang: python
 - have you considered actually reading the problem you are soling before solving it. smh.
 - list.sort() will sort the list
 - `diff = float('inf')` gives you infinity in float
+- remember to account for length of stack when doing memory complexity calc
 
 ### Array
 - sort+2 pointer combos allow you to move closer to a sum in linear time
