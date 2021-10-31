@@ -1,5 +1,5 @@
 # Leetcode 2021
-I will use this repo to solve leetcode questions by topic
+I will use this repo to solve leetcode questions by topic (for the most part, some are unsorted)
 
 lang: python
 
@@ -7,10 +7,10 @@ lang: python
 - Review all the sorting algorithms, what they do and their consequesnt space/time complexity
 - practise converting between recurrsive and iterative solutions
 - keep going down list of type of problems
+- Look into union find
 
 
 ## To come back to
-- more array problems
 
 ## Lessons
 ### General
@@ -31,6 +31,10 @@ lang: python
 
 ### Backtracking
 - 
+
+### Heap
+- import heappq
+- heappq.heap
 
 
 
